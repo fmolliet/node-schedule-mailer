@@ -14,8 +14,8 @@ cron.schedule('* * * * *', function () {
         port: 587,
         secure: false,
         auth: {
-        user: 'clifford32@ethereal.email',
-        pass: 'pN78HS1nC4N6yN8gRZ'
+        user: '<YOUR_USERNAME>',
+        pass: '<YOUR_PASSWORD>'
         }
     });
     // Mail data (Body, address, receipt, subject)
