@@ -35,7 +35,7 @@ Creditos para o seguinte artigo: https://medium.com/javascript-in-plain-english/
   <li><a href="https://nodemon.io/" rel="nofollow">nodemon</a></li>
   <li><a href="https://nodemailer.com/about/" rel="nofollow">Node Mailer</a></li>
   <li><a href="https://ethereal.email/create" rel="nofollow">Ethereal</a></li>
-  <li><a href="https://github.com/node-schedule/node-schedule">Node Schedule</a></li>
+  <li><a href="https://www.npmjs.com/package/node-cron">Node Cron</a></li>
   <li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with <a href="https://insomnia.rest/" rel="nofollow">Isomnia</a></li>
 </ul>
 
